@@ -21,11 +21,11 @@ pada tugas **Temu Kembali Informasi** maupun riset hukum dan NLP.
 
 ## 📂 Struktur Repository
 
-📂 Dataset-Narkotika_027_029
+Dataset-Narkotika_027_029/
 ├── 📁 Dataset
-│   └── 📦 Narkotika.zip
+│ └── 📦 Narkotika.zip
 ├── 📁 Overview
-│   └── 📊 Overview.xlsx
+│ └── 📊 Overview.xlsx
 └── 📄 README.md
 
 ---
